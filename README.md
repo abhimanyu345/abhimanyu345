@@ -1,5 +1,13 @@
 # 💫 About Me:
-👋Hey! I'm a developer who enjoys building clean, functional solutions — whether it's in full-stack web development, deep learning, or diving into data structures and algorithms. I'm constantly learning, experimenting, and pushing to write better code every day.<br><br>🧠 Interests:<br>Web Development (Frontend + Backend)<br><br>Deep Learning & Machine Learning<br><br>Data Structures and Algorithms (DSA)<br><br>Competitive Programming<br><br>System Design and Scalability<br><br>💻 Tech Stack:<br>Python | C++ | JavaScript | React | Node.js | Express | MongoDB | SQL<br>PyTorch | TensorFlow | OpenCV | ONNX | Git | Linux | VS Code<br><br>🚀 What I’m Up To:<br>Sharpening problem-solving skills with DSA and CP<br><br>Exploring system-level deployment (ONNX, OpenCV in C++)<br><br>Building fast, responsive web apps with modern stacks<br><br>Leveling up in deep learning and AI fundamentals<br><br>📫 Reach Out:<br>If you're into clean code, smart systems, or just want to connect — feel free to explore my repos or drop a message!<br><br>
+👋 I'm a developer focused on web dev, deep learning, and DSA. Always learning, always building.<br><br>
+
+💻 Tech: Python | C++ | JavaScript | React | Node.js | PyTorch | TensorFlow<br><br>
+
+🚀 Now: Practicing DSA, building web apps, exploring AI deployment.<br><br>
+
+📫 Let’s connect — check out my repos!
+
+
 
 
 ## 🌐 Socials:
