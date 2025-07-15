@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I'm a developer focused on web dev, deep learning, and DSA. Always learning, always building.<br><br>
+👋 I'm a full-stack developer and AI enthusianst focused on web dev, deep learning, and DSA. Always learning, always building.<br><br>
 
 💻 Tech: Python | C++ | JavaScript | React | Node.js | PyTorch | TensorFlow<br><br>
 
