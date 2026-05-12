@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Bioengineering @ IIT Jodhpur
+  B.Tech, IIT Jodhpur · Class of 2026
 </p>
 
 <p align="center">
@@ -13,13 +13,8 @@
 </p>
 
 ---
-
 ### About
-
-Final-year B.Tech student at IIT Jodhpur, specializing in Bioengineering with an AI focus. I work across backend development, machine learning, and applied computer vision.
-
-Currently focused on backend systems and contributing to open source.
-
+Building Python backend systems and contributing to open source. Working on APIs, infrastructure, and developer tools. Also into cybersecurity and DSA.
 ---
 
 ### Tech Stack
