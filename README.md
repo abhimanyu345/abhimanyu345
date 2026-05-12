@@ -1,35 +1,61 @@
-# 💫 About Me:
-👋 I'm a full-stack developer and AI enthusianst focused on web dev, deep learning, and DSA. Always learning, always building.<br><br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=Abhimanyu%20Gupta&fontSize=42&fontColor=ffffff&fontAlignY=55" alt="banner" />
+</p>
 
-💻 Tech: Python | C++ | JavaScript | React | Node.js | PyTorch | TensorFlow<br><br>
+<p align="center">
+  Bioengineering @ IIT Jodhpur
+</p>
 
-🚀 Now: Practicing DSA, building web apps, exploring AI deployment.<br><br>
-
-📫 Let’s connect — check out my repos!
-
-
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/abhimanyu-gupta-9766a9275/](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/b22bb00181417) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:b22bb001@iitj.ac.in) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abhimanyu345&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=abhimanyu345&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhimanyu345&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abhimanyu345&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abhimanyu345&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="mailto:b22bb001@iitj.ac.in">Email</a> ·
+  <a href="https://www.linkedin.com/in/abhimanyu-gupta-9766a9275/">LinkedIn</a> ·
+  <a href="https://x.com/b22bb00181417">X</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abhimanyu345&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### About
+
+Final-year B.Tech student at IIT Jodhpur, specializing in Bioengineering with an AI focus. I work across backend development, machine learning, and applied computer vision.
+
+Currently focused on backend systems and contributing to open source.
+
+---
+
+### Tech Stack
+
+**Languages** &nbsp;&nbsp; Python · C++ · JavaScript · TypeScript · SQL
+
+**Backend** &nbsp;&nbsp; Django · Flask · Node.js · PostgreSQL · MongoDB
+
+**Machine Learning** &nbsp;&nbsp; PyTorch · TensorFlow · scikit-learn · NumPy · Pandas
+
+**Tools** &nbsp;&nbsp; Git · Docker · Linux · AWS
+
+---
+
+### Featured Work
+
+**[SoccerVisionAI](https://github.com/abhimanyu345/SoccerVisionAI)**
+Modular deep learning framework for analyzing soccer match footage.
+
+**[Data-Warehouse](https://github.com/abhimanyu345/Data-Warehouse)**
+End-to-end ETL and analytics solution using Medallion architecture.
+
+**[Spartan-chess-agent](https://github.com/abhimanyu345/Spartan-chess-agent)**
+Chess AI engine implementing Minimax with Alpha-Beta pruning.
+
+**[XRayCOVIDNet](https://github.com/abhimanyu345/XRayCOVIDNet)**
+Deep learning pipeline for COVID-19 detection in chest X-rays.
+
+---
+
+### GitHub Activity
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=abhimanyu345&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&hide=issues" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhimanyu345&theme=transparent&hide_border=true&layout=compact&langs_count=8" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhimanyu345/abhimanyu345/output/github-snake-dark.svg" />
