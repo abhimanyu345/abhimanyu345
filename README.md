@@ -7,8 +7,6 @@
 
 <p align="center">
   <a href="mailto:b22bb001@iitj.ac.in">Email</a> ·
-  <a href="https://www.linkedin.com/in/abhimanyu-gupta-9766a9275/">LinkedIn</a> ·
-  <a href="https://x.com/b22bb00181417">X</a>
 </p>
 
 ---
